@@ -1,0 +1,36 @@
+2020/11/28 00:44:33 Attempting to subscribe to chain / join chat room
+2020/11/28 00:44:33 Added genesis block Index: 0; Prev Hash: ; Card ID: -1; Amount: 0.000000; Timestamp: 2020-11-28 00:44:33.700816529 +0530 IST m=+0.120132241; Hash: genesis-block-placeholder; Sender: ; SenderNick: ;
+
+
+2020/11/28 00:44:36 Starting request indices
+2020/11/28 00:44:36 Starting read indices
+2020/11/28 00:44:36 Logging msg in read indices; Type: 1; Sender: QmXMNtXCPrLVZaxLnfzdRyEHzUUd2vZyXUUmPoAhbTYYf6; SenderNick: vi; Receiver: ; Index: 0;
+2020/11/28 00:44:36 Logging msg in read indices; Type: 3; Sender: QmWgcUFv7WL7uvi5PKJbQvBAbcNYUkLNzL3EwDD8jyaEf1; SenderNick: vineet; Receiver: QmXMNtXCPrLVZaxLnfzdRyEHzUUd2vZyXUUmPoAhbTYYf6; Index: 1;
+2020/11/28 00:44:36 Read Index Message message from vineet
+2020/11/28 00:44:36 Exiting read indices
+2020/11/28 00:44:36 maxIndexPeer is QmWgcUFv7WL7uvi5PKJbQvBAbcNYUkLNzL3EwDD8jyaEf1 with chain of length 1
+2020/11/28 00:44:36 Requesting chain from QmWgcUFv7WL7uvi5PKJbQvBAbcNYUkLNzL3EwDD8jyaEf1
+2020/11/28 00:44:36 Starting request indices
+2020/11/28 00:44:36 Request message sent to QmWgcUFv7WL7uvi5PKJbQvBAbcNYUkLNzL3EwDD8jyaEf1
+2020/11/28 00:44:36 Attempting to receive chain from QmWgcUFv7WL7uvi5PKJbQvBAbcNYUkLNzL3EwDD8jyaEf1
+2020/11/28 00:44:36 Starting read chain
+2020/11/28 00:44:36 Logging msg in read chain; Type: 2; Sender: QmXMNtXCPrLVZaxLnfzdRyEHzUUd2vZyXUUmPoAhbTYYf6; SenderNick: vi; Receiver: QmWgcUFv7WL7uvi5PKJbQvBAbcNYUkLNzL3EwDD8jyaEf1; Index: 0;
+2020/11/28 00:44:36 Logging msg in read chain; Type: 4; Sender: QmWgcUFv7WL7uvi5PKJbQvBAbcNYUkLNzL3EwDD8jyaEf1; SenderNick: vineet; Receiver: QmXMNtXCPrLVZaxLnfzdRyEHzUUd2vZyXUUmPoAhbTYYf6; Index: 0;
+2020/11/28 00:44:36 Read Chain message from vineet
+2020/11/28 00:44:36 Exiting read chain
+2020/11/28 00:44:36 Received chain
+2020/11/28 00:44:36 Index: 0; Prev Hash: ; Card ID: -1; Amount: 0.000000; Timestamp: 2020-11-28 00:44:16.922871593 +0530 IST m=+0.107994405; Hash: genesis-block-placeholder; Sender: ; SenderNick: ;
+
+Index: 1; Prev Hash: genesis-block-placeholder; Card ID: 2; Amount: 30.000000; Timestamp: 2020-11-28 00:44:26.056873349 +0530 IST m=+9.241996484; Hash: 3def20646645c71ad0b6dfccf10e90f6dd2ae6b9ec276586ff31b61315327239; Sender: QmWgcUFv7WL7uvi5PKJbQvBAbcNYUkLNzL3EwDD8jyaEf1; SenderNick: vineet;
+
+2020/11/28 00:44:36 Attempting to start UI
+2020/11/28 00:44:43 Validating block: Index: 2; Prev Hash: 3def20646645c71ad0b6dfccf10e90f6dd2ae6b9ec276586ff31b61315327239; Card ID: 2; Amount: 40.000000; Timestamp: 2020-11-28 00:44:43.275103637 +0530 IST m=+9.694419532; Hash: 60d7bfdbfe78c3c899d1476b3ea4209a64694e230cffb7884be1ce3845673eb2; Sender: QmXMNtXCPrLVZaxLnfzdRyEHzUUd2vZyXUUmPoAhbTYYf6; SenderNick: vi;
+
+2020/11/28 00:44:55 Validating block: Index: 3; Prev Hash: 60d7bfdbfe78c3c899d1476b3ea4209a64694e230cffb7884be1ce3845673eb2; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:44:55.730583029 +0530 IST m=+38.915706088; Hash: bcde17533b928e358bc52a1bcdeca2a03547bc73f7979895644e420dcfafb012; Sender: QmWgcUFv7WL7uvi5PKJbQvBAbcNYUkLNzL3EwDD8jyaEf1; SenderNick: vineet;
+
+2020/11/28 00:44:58 Validating block: Index: 4; Prev Hash: bcde17533b928e358bc52a1bcdeca2a03547bc73f7979895644e420dcfafb012; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:44:58.716916564 +0530 IST m=+25.136232265; Hash: 5d4d3a881e79ee18b44977a9bc9861048c13a2dcfdb6b874674065db90757ed3; Sender: QmXMNtXCPrLVZaxLnfzdRyEHzUUd2vZyXUUmPoAhbTYYf6; SenderNick: vi;
+
+2020/11/28 00:45:38 Validating block: Index: 5; Prev Hash: 5d4d3a881e79ee18b44977a9bc9861048c13a2dcfdb6b874674065db90757ed3; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:45:38.323535898 +0530 IST m=+64.742851833; Hash: 4385002870a44012faa815a5992a8ac923df312434c9f0d39974cb24208f4936; Sender: QmXMNtXCPrLVZaxLnfzdRyEHzUUd2vZyXUUmPoAhbTYYf6; SenderNick: vi;
+
+2020/11/28 00:45:42 Validating block: Index: 6; Prev Hash: 4385002870a44012faa815a5992a8ac923df312434c9f0d39974cb24208f4936; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:45:42.574551804 +0530 IST m=+85.759674932; Hash: eebba437c8a77dc8272b8b7e647967c0e2b58f3817c40bdb92612473bceed480; Sender: QmWgcUFv7WL7uvi5PKJbQvBAbcNYUkLNzL3EwDD8jyaEf1; SenderNick: vineet;
+

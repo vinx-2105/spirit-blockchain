@@ -1,0 +1,50 @@
+2020/11/28 00:15:59 Attempting to subscribe to chain / join chat room
+2020/11/28 00:15:59 Added genesis block Index: 0; Prev Hash: ; Card ID: -1; Amount: 0.000000; Timestamp: 2020-11-28 00:15:59.914999201 +0530 IST m=+0.121523127; Hash: genesis-block-placeholder; Sender: ; SenderNick: ;
+
+
+2020/11/28 00:16:02 Starting request indices
+2020/11/28 00:16:02 Starting read indices
+2020/11/28 00:16:02 Logging msg in read indices; Type: 1; Sender: QmVpNRZcTSRrnbP1kAPmPhXZUpxUjAfJ71Fy62MLSQ95k1; SenderNick: parth; Receiver: ; Index: 0;
+2020/11/28 00:16:02 Logging msg in read indices; Type: 3; Sender: QmcSKxRg3GhiMcjkHzVWqLtiehnq9KiRtv1zthc5nHHZoh; SenderNick: mudit; Receiver: QmVpNRZcTSRrnbP1kAPmPhXZUpxUjAfJ71Fy62MLSQ95k1; Index: 0;
+2020/11/28 00:16:02 Read Index Message message from mudit
+2020/11/28 00:16:02 Logging msg in read indices; Type: 3; Sender: QmYgJZVQasAWQAQydj3oERayjBuMutx1SLyryV157KrSyH; SenderNick: jeetu; Receiver: QmVpNRZcTSRrnbP1kAPmPhXZUpxUjAfJ71Fy62MLSQ95k1; Index: 0;
+2020/11/28 00:16:02 Read Index Message message from jeetu
+2020/11/28 00:16:02 Logging msg in read indices; Type: 3; Sender: QmTPUxyCTQWj7UJ4jKKXAGi8x5TZfHDAxDwpCDvcweAnpJ; SenderNick: vineet; Receiver: QmVpNRZcTSRrnbP1kAPmPhXZUpxUjAfJ71Fy62MLSQ95k1; Index: 0;
+2020/11/28 00:16:02 Read Index Message message from vineet
+2020/11/28 00:16:02 Exiting read indices
+2020/11/28 00:16:02 maxIndexPeer is QmcSKxRg3GhiMcjkHzVWqLtiehnq9KiRtv1zthc5nHHZoh with chain of length 0
+2020/11/28 00:16:02 Attempting to start UI
+2020/11/28 00:16:13 Validating block: Index: 1; Prev Hash: genesis-block-placeholder; Card ID: 2; Amount: 10.000000; Timestamp: 2020-11-28 00:16:13.002696288 +0530 IST m=+18.580696444; Hash: a33b315e542ff11b1415aa7f75d05f692c2fea96ec84b4fe45b9d1d3dfb57a50; Sender: QmcSKxRg3GhiMcjkHzVWqLtiehnq9KiRtv1zthc5nHHZoh; SenderNick: mudit;
+
+2020/11/28 00:16:22 Validating block: Index: 2; Prev Hash: a33b315e542ff11b1415aa7f75d05f692c2fea96ec84b4fe45b9d1d3dfb57a50; Card ID: 2; Amount: 10.000000; Timestamp: 2020-11-28 00:16:22.986636871 +0530 IST m=+23.193160915; Hash: f10b0f11ae82a767510b9c1d499a485a3215053c65bd0952cf478ad928630afd; Sender: QmVpNRZcTSRrnbP1kAPmPhXZUpxUjAfJ71Fy62MLSQ95k1; SenderNick: parth;
+
+2020/11/28 00:16:43 Validating block: Index: 3; Prev Hash: f10b0f11ae82a767510b9c1d499a485a3215053c65bd0952cf478ad928630afd; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:16:43.454119089 +0530 IST m=+60.147375956; Hash: 373b1393800d9c5c84cb5c1455725b415f112972097f4b4ae2b62a1ed4d45691; Sender: QmYgJZVQasAWQAQydj3oERayjBuMutx1SLyryV157KrSyH; SenderNick: jeetu;
+
+2020/11/28 00:17:14 Validating block: Index: 4; Prev Hash: 373b1393800d9c5c84cb5c1455725b415f112972097f4b4ae2b62a1ed4d45691; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:17:14.398354099 +0530 IST m=+91.091611123; Hash: c65b711058430edcba524c1aad0009a462701d91e3f2b7317379151599f535a1; Sender: QmYgJZVQasAWQAQydj3oERayjBuMutx1SLyryV157KrSyH; SenderNick: jeetu;
+
+2020/11/28 00:17:18 Validating block: Index: 5; Prev Hash: c65b711058430edcba524c1aad0009a462701d91e3f2b7317379151599f535a1; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:17:18.595932058 +0530 IST m=+89.102769938; Hash: 7de43721ffb01b497ba36d39fd7f699043fd3d1c3592c3e27b946710c9ff8c32; Sender: QmTPUxyCTQWj7UJ4jKKXAGi8x5TZfHDAxDwpCDvcweAnpJ; SenderNick: vineet;
+
+2020/11/28 00:17:20 Validating block: Index: 6; Prev Hash: 7de43721ffb01b497ba36d39fd7f699043fd3d1c3592c3e27b946710c9ff8c32; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:17:20.885692285 +0530 IST m=+81.092216438; Hash: dc56b8bc5215bb0de800f0bcb75ffbe84d861da459abdf75ec1f77be65ff9866; Sender: QmVpNRZcTSRrnbP1kAPmPhXZUpxUjAfJ71Fy62MLSQ95k1; SenderNick: parth;
+
+2020/11/28 00:17:22 Validating block: Index: 7; Prev Hash: dc56b8bc5215bb0de800f0bcb75ffbe84d861da459abdf75ec1f77be65ff9866; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:17:22.698592047 +0530 IST m=+88.276592308; Hash: 2b06cb037f81c4c67529831ddd43ad900673422696b13c45194d50d4b60b2e8e; Sender: QmcSKxRg3GhiMcjkHzVWqLtiehnq9KiRtv1zthc5nHHZoh; SenderNick: mudit;
+
+2020/11/28 00:17:25 Validating block: Index: 8; Prev Hash: 2b06cb037f81c4c67529831ddd43ad900673422696b13c45194d50d4b60b2e8e; Card ID: 2; Amount: -10.000000; Timestamp: 2020-11-28 00:17:25.872664164 +0530 IST m=+91.450664477; Hash: fe2a3098137bfad663b66791e518733c54b4dd1b09f72b182202ea7d785bb631; Sender: QmcSKxRg3GhiMcjkHzVWqLtiehnq9KiRtv1zthc5nHHZoh; SenderNick: mudit;
+
+2020/11/28 00:17:28 Validating block: Index: 9; Prev Hash: fe2a3098137bfad663b66791e518733c54b4dd1b09f72b182202ea7d785bb631; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:17:28.118095376 +0530 IST m=+88.324619523; Hash: 0d7f243fb3062115fecb88833e3714c024c0c1dc864b2809c55b234226ff7555; Sender: QmVpNRZcTSRrnbP1kAPmPhXZUpxUjAfJ71Fy62MLSQ95k1; SenderNick: parth;
+
+2020/11/28 00:17:31 Validating block: Index: 10; Prev Hash: 0d7f243fb3062115fecb88833e3714c024c0c1dc864b2809c55b234226ff7555; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:17:31.021198062 +0530 IST m=+101.528035748; Hash: b79dc55dadca1a8621e7aad6d5083c7dd1375d300da4c0721b94846e32c58b5b; Sender: QmTPUxyCTQWj7UJ4jKKXAGi8x5TZfHDAxDwpCDvcweAnpJ; SenderNick: vineet;
+
+2020/11/28 00:17:32 Validating block: Index: 11; Prev Hash: b79dc55dadca1a8621e7aad6d5083c7dd1375d300da4c0721b94846e32c58b5b; Card ID: 2; Amount: 0.000000; Timestamp: 2020-11-28 00:17:32.863652516 +0530 IST m=+109.556909303; Hash: 6a73f2ba71371de418211501bbf3395682e9ba65d19c7abf5be3e248a8fa6539; Sender: QmYgJZVQasAWQAQydj3oERayjBuMutx1SLyryV157KrSyH; SenderNick: jeetu;
+
+2020/11/28 00:17:37 Validating block: Index: 12; Prev Hash: 6a73f2ba71371de418211501bbf3395682e9ba65d19c7abf5be3e248a8fa6539; Card ID: 3; Amount: 100.000000; Timestamp: 2020-11-28 00:17:37.071142177 +0530 IST m=+113.764399069; Hash: bf954daab97a49c5b3148f0acd7b056328796ca0d8052ec65291e0f42aad7b60; Sender: QmYgJZVQasAWQAQydj3oERayjBuMutx1SLyryV157KrSyH; SenderNick: jeetu;
+
+2020/11/28 00:17:39 Validating block: Index: 13; Prev Hash: bf954daab97a49c5b3148f0acd7b056328796ca0d8052ec65291e0f42aad7b60; Card ID: 3; Amount: 0.000000; Timestamp: 2020-11-28 00:17:39.979156155 +0530 IST m=+110.485994040; Hash: 70d9db985937fb18a60569dce20eddb8768a4daeeaf824ce3f5c9c457b97ef9d; Sender: QmTPUxyCTQWj7UJ4jKKXAGi8x5TZfHDAxDwpCDvcweAnpJ; SenderNick: vineet;
+
+2020/11/28 00:17:42 Validating block: Index: 14; Prev Hash: 70d9db985937fb18a60569dce20eddb8768a4daeeaf824ce3f5c9c457b97ef9d; Card ID: 3; Amount: -90.000000; Timestamp: 2020-11-28 00:17:42.39384272 +0530 IST m=+102.600366882; Hash: f8097147210ad60f8f553f74cce7e3ae9e46f2b84310890b897d3dc356bea381; Sender: QmVpNRZcTSRrnbP1kAPmPhXZUpxUjAfJ71Fy62MLSQ95k1; SenderNick: parth;
+
+2020/11/28 00:17:44 Validating block: Index: 15; Prev Hash: f8097147210ad60f8f553f74cce7e3ae9e46f2b84310890b897d3dc356bea381; Card ID: 3; Amount: 0.000000; Timestamp: 2020-11-28 00:17:44.389909412 +0530 IST m=+114.896747235; Hash: bf5878805b23675a9b35fc5c3e0d649c75aff7750abb7c5745bd3216b539bbf8; Sender: QmTPUxyCTQWj7UJ4jKKXAGi8x5TZfHDAxDwpCDvcweAnpJ; SenderNick: vineet;
+
+2020/11/28 00:17:47 Validating block: Index: 16; Prev Hash: bf5878805b23675a9b35fc5c3e0d649c75aff7750abb7c5745bd3216b539bbf8; Card ID: 3; Amount: 0.000000; Timestamp: 2020-11-28 00:17:47.16174859 +0530 IST m=+123.855005459; Hash: 10c11716209cc95dcdc6d602e9a02d6901f6e803b0c1a160b0e556968c844e48; Sender: QmYgJZVQasAWQAQydj3oERayjBuMutx1SLyryV157KrSyH; SenderNick: jeetu;
+
+2020/11/28 00:17:58 Validating block: Index: 17; Prev Hash: 10c11716209cc95dcdc6d602e9a02d6901f6e803b0c1a160b0e556968c844e48; Card ID: 3; Amount: 0.000000; Timestamp: 2020-11-28 00:17:58.629894025 +0530 IST m=+135.323150959; Hash: 2ec0604c9bdb233d45a30cb30fd48de290d4a838671e935f8c2a2aea38843373; Sender: QmYgJZVQasAWQAQydj3oERayjBuMutx1SLyryV157KrSyH; SenderNick: jeetu;
+
